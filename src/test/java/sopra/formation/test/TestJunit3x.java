@@ -6,7 +6,7 @@ import java.time.Month;
 import org.junit.Assert;
 
 import junit.framework.TestCase;
-import sopra.formation.Application;
+import sopra.formation.config.Application;
 import sopra.formation.dao.IFiliereDao;
 import sopra.formation.model.Dispositif;
 import sopra.formation.model.Filiere;

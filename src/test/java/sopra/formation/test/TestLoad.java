@@ -3,7 +3,7 @@ package sopra.formation.test;
 import java.time.LocalDate;
 import java.time.Month;
 
-import sopra.formation.Application;
+import sopra.formation.config.Application;
 import sopra.formation.dao.IAbsenceDao;
 import sopra.formation.dao.ICompetenceDao;
 import sopra.formation.dao.ICoursDao;
